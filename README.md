@@ -1,8 +1,8 @@
+ [![Discord Presence](https://lanyard.cnrad.dev/api/754969692585852939)](https://discord.com/users/754969692585852939)
 <div align="center">
     https://adiss01.github.io
 <p>
 </p>
- [![Discord Presence](https://lanyard.cnrad.dev/api/754969692585852939)](https://discord.com/users/754969692585852939)
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/ad6caaf0d260373f3259c0f42190e3c1e8b1d769977ad9fe48e7c22a48629336/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61646973733031266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&amp;layout=compact&amp;langs_count=10&amp;theme=radical" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6c2131ba076ab20200c573ef6741f44aae11e2d42efdd73dd1922824c4fc1bb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616469737330312673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/6c2131ba076ab20200c573ef6741f44aae11e2d42efdd73dd1922824c4fc1bb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616469737330312673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="adiss01's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=adiss01&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></p>
 <p></p>
