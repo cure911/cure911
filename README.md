@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1009385468871311380/1027733381162733639/cure-banner.jpg)](https://discord.gg/EwH35qbYrV)
+[![MasterHead](https://cdn.discordapp.com/attachments/1009385468871311380/1027734057343266856/bannersmall.jpg)](https://discord.gg/EwH35qbYrV)
 <h1 align="center">Hi 👋, I'm Mirac (Cure) Ozcan</h1>
 <h3 align="center">I am front-end developer from Canada. I have been doing front-end based coding for about 2 years. My specialty is JavaScript.</h3>
 
