@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mirac (Cure) Ozcan</h1>
 <h3 align="center">I am front-end developer from Canada. I have been doing front-end based coding for about 2 years. My specialty is JavaScript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cure911&label=Profile%20views&color=0e75b6&style=flat" alt="cure911" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cure911" alt="cure911" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/miraccozcan" target="blank"><img src="https://img.shields.io/twitter/follow/miraccozcan?logo=twitter&style=for-the-badge" alt="miraccozcan" /></a> </p>
 
 - 🖥 I am currently working with [Lunny Development's](https://discord.gg/EwH35qbYrV)
@@ -44,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cure911&show_icons=true&locale=en" alt="cure911" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cure911&" alt="cure911" /></p>
+
