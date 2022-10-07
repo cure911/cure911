@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    https://adiss01.github.io
+    https://cure911.github.io
 <p>
 </p>
  <p data-sourcepos="2:1-2:117" dir="auto"><a href="https://discord.com/users/754969692585852939" rel="nofollow"><img src="https://camo.githubusercontent.com/0a875a029acebd23762760ce44d02fdcdbf3b2c5f2dfbe33b48a4adcd25f3a74/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f373534393639363932353835383532393339" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/754969692585852939" style="max-width: 100%;"></a></p>
