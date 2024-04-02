@@ -1,5 +1,5 @@
 
 <div align="center">
-    [https://bento.me/miracc]
+    https://bento.me/miracc
 <p>
 
